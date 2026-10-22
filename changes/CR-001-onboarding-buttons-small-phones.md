@@ -1,6 +1,6 @@
 # CR-001 — Sign-up buttons were hidden on smaller phones
 
-**Where it stands:** Ready to release (not yet on Google Play) · **App version:** 1.0.10 · **Last updated:** 21 Oct 2026
+**Where it stands:** With testers (on Google Play) · **App version:** 1.0.10 · **Last updated:** 22 Oct 2026
 
 ## What was reported
 
@@ -33,7 +33,7 @@ Decided on 21 October 2026:
 | --- | --- |
 | Built and tested by the team | Yes, 21 Oct 2026 (all automated tests passed) |
 | Final release version made | Yes, 21 Oct 2026 (version 1.0.10) |
-| On Google Play for testers | Not yet |
+| On Google Play for testers | Yes (confirmed 22 Oct 2026) |
 | Checked on a real phone | Not yet |
 
 ## Not yet checked
@@ -46,3 +46,4 @@ Decided on 21 October 2026:
 - 21 Oct 2026 — Two customer reports received. We looked into it and confirmed the problem.
 - 21 Oct 2026 — Fix approved and built.
 - 21 Oct 2026 — Final release version 1.0.10 made and checked. Waiting to be published to Google Play testers.
+- 22 Oct 2026 — Fix completed and version 1.0.10 published on Google Play.

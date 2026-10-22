@@ -12,7 +12,7 @@ Newest first.
 
 | ID | What changed | Where it stands | App version | Last updated |
 | --- | --- | --- | --- | --- |
-| [CR-001](changes/CR-001-onboarding-buttons-small-phones.md) | Sign-up buttons were hidden on smaller phones | Ready to release (not yet on Google Play) | 1.0.10 | 21 Oct 2026 |
+| [CR-001](changes/CR-001-onboarding-buttons-small-phones.md) | Sign-up buttons were hidden on smaller phones | With testers (on Google Play) | 1.0.10 | 22 Oct 2026 |
 
 ## What "where it stands" means
 
